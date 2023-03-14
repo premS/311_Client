@@ -11,6 +11,10 @@ In the project directory, you can run:
 
 ### `npm start`
 
+Will prompt for
+Would you like to run the app on another port instead? » (Y/n)
+As server runs on 3000
+
 Runs the app in the development mode.\
 Open [http://localhost:3001](http://localhost:3001) to view it in the browser.
 
